@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Table",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
